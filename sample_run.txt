@@ -1,0 +1,29 @@
+Best Shortest Route - Dhaka Demo
+================================
+Listed locations:
+A ---> Abdullahpur Airport_station Asadgate Ashulia_bazar 
+B ---> Badda Banani Bijoysarani Birulia 
+D ---> DIU Dhaka_university Dhanmondi 
+F ---> Farmgate 
+G ---> Gabtoli Gulshan 
+J ---> Janghora Jatrabari 
+K ---> Kachukhet Kallyanpur Kamarpara Kawran_bazar Kuril 
+M ---> Mirpur Mohammadpur Motijheel 
+N ---> New_market 
+O ---> Old_dhaka 
+P ---> Pallabi Panthapath 
+R ---> Rajlokkhi Rampura 
+S ---> Sadarghat Savar Shyamoly 
+T ---> Tejgaon Tongi 
+U ---> Uttara 
+
+Type q at From to exit.
+From: To: Shortest distance from Dhanmondi to DIU: 23 km
+Route: Dhanmondi --> Shyamoly --> Mirpur --> DIU
+
+Type q at From to exit.
+From: To: Shortest distance from Old_dhaka to Mirpur: 12 km
+Route: Old_dhaka --> New_market --> Dhanmondi --> Shyamoly --> Mirpur
+
+Type q at From to exit.
+From: Goodbye.
